@@ -164,5 +164,6 @@ Embarking on a journey in robotics in 2024 offers a blend of creativity, innovat
   - [IEEE Robotics and Automation Society](https://www.ieee-ras.org/)
   - [RobotShop Blog](https://www.robotshop.com/community/blog) (trends and projects in robotics)
   - [ROS.org](https://www.ros.org/) (for resources related to the Robot Operating System)
-
+  - [Answers from Quora on "Robotics Roadmap"](https://qr.ae/p2O7Cx)
+  - [Reddit's thread on Robotics and Automation](https://www.reddit.com/r/robotics/comments/1txv2y/the_best_books_you_have_read_on_roboticsautomation/)
 
