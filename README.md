@@ -1,6 +1,9 @@
 
 # A Roadmap to a Successful Career in Robotics: Embracing the Future in 2024
 
+![image](https://github.com/user-attachments/assets/6d15682f-b264-4410-95e5-b26e7a034be8)
+
+
 Robotics is at the forefront of technological innovation, merging engineering, computer science, and artificial intelligence to revolutionize industries. As we step into 2024, the demand for skilled robotics engineers and enthusiasts has never been higher. Whether you’re a complete beginner or looking to deepen your expertise, this comprehensive roadmap will guide you through the essential steps to build a successful career in robotics.
 
 ## Introduction: Why Robotics in 2024?
